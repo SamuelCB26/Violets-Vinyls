@@ -1,26 +1,17 @@
-/* Write your CSS here - remember to add Id's or classes to the HTML file */
 body {
     background-color: Black;
     color: white;
+    font-family: "Sergoe UI", Veranda, sans-serif;
 }
 
 h1 {
-    font-family: "Sergoe UI, Veranda, sans-serif";
     color: white;
     font-size: 100px;
     text-align: center;
-    outline-color: black;
     background-image: url("img/Records.jpg");
 }
 
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
 .sub {
-    font-family: "Segoe UI, Verdana, sans-serif";
     text-align: center;
 }
 
@@ -41,7 +32,6 @@ h1 {
 }
 
 p {
-    font-family: "Segoe UI, Verdana, sans-serif";
     font-size: 16px;
 }
 
